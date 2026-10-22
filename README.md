@@ -1,7 +1,7 @@
 # Omnia Mamdouh Mostafa Elansary 👋
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Omnia Elansary Avatar" width="210" style="border-radius: 50%;">
+  <img src="https://github.com/OmniaElansary.png" alt="Omnia Elansary Avatar" width="180" style="border-radius: 50%;">
 </p>
 
 <p align="center">
@@ -77,8 +77,8 @@ Undergraduate Student in **Naval Architecture & Marine Engineering** at Alexandr
 ## 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmniaElansary&show_icons=true&theme=nord&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmniaElansary&layout=compact&theme=nord" alt="Top Languages" width="48%">
 </p>
 
 ---
