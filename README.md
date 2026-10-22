@@ -1,29 +1,30 @@
-# Hi there, I'm Omnia! 👋
-
-<p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Omnia Avatar" width="220" style="border-radius: 50%;">
-</p>
-
-<p align="center">
-  <b>Engineering Student | Systems & Control | Open Source Enthusiast</b>
-</p>
+<div align="center">
+  <img src="YOUR_IMAGE_URL_HERE" width="200" alt="Avatar"/>
+  <h1>Hello, World! I'm Omnia 👩‍💻</h1>
+  <p><i>Building smart hardware solutions & dynamic software applications.</i></p>
+</div>
 
 ---
 
-### 🚀 About Me
-- 🎓 Studying **Naval Architecture & Marine Engineering** @ Alexandria University.
-- 🛠️ Passionate about **Control Systems, Embedded Hardware, and IoT Solutions**.
-- 💡 Constantly learning, coding, and building cool hardware/software projects.
-- ☕ Powered by continuous integration, debugging, and good coffee.
+### 📌 Quick Highlights
+* 🚢 **Major:** Naval Architecture & Marine Engineering
+* ⚙️ **Focus:** Autonomous Systems, Control Engineering, Data Analysis & UI/UX
+* 🔭 **Currently Working On:** Smart monitoring systems & data-driven engineering models
+* 🌱 **Learning:** Physics-Informed Machine Learning & Advanced Control Systems
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** Python, C++, SQL, PHP
-- **Hardware & IoT:** ESP8266, ESP32, Sensors & Actuators, WebSockets
-- **Frameworks & Tools:** PyTorch, PyQt, Git, Figma, CAD Modeling
+### 🧰 Skills & Technologies
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, SQL, HTML/CSS |
+| **Hardware / Embedded** | ESP32, ESP8266, Accelerometers, Sensors, I2C / WebSockets |
+| **Software & Libraries** | PyTorch, NumPy, PyQt5/PySide6, Git/GitHub |
+| **Design & Engineering** | Figma, CAD Modeling, Ansys |
 
 ---
 
-📫 **Connect with me:**  
-[LinkedIn](https://linkedin.com) • [Email](mailto:your.email@example.com) • [Portfolio](https://your-portfolio.com)
+<div align="center">
+  <i>"Code, Commit, Coffee, Repeat."</i> ☕
+</div>
