@@ -1,30 +1,27 @@
 <div align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="200" alt="Avatar"/>
-  <h1>Hello, World! I'm Omnia 👩‍💻</h1>
-  <p><i>Building smart hardware solutions & dynamic software applications.</i></p>
+  <img src="YOUR_IMAGE_URL_HERE" width="200" alt="Gamer Avatar"/>
+  <h1>👾 SYSTEM OVERRIDE: OMNIA.EXE 👾</h1>
+  <p><i>"Game Developer Mindset applied to Hardware, Control Systems & Code."</i></p>
 </div>
 
 ---
 
-### 📌 Quick Highlights
-* 🚢 **Major:** Naval Architecture & Marine Engineering
-* ⚙️ **Focus:** Autonomous Systems, Control Engineering, Data Analysis & UI/UX
-* 🔭 **Currently Working On:** Smart monitoring systems & data-driven engineering models
-* 🌱 **Learning:** Physics-Informed Machine Learning & Advanced Control Systems
-
----
-
-### 🧰 Skills & Technologies
-
-| Category | Tools & Technologies |
+### 📊 Character Stats
+| Attribute | Level / Rating |
 | :--- | :--- |
-| **Languages** | Python, C++, SQL, HTML/CSS |
-| **Hardware / Embedded** | ESP32, ESP8266, Accelerometers, Sensors, I2C / WebSockets |
-| **Software & Libraries** | PyTorch, NumPy, PyQt5/PySide6, Git/GitHub |
-| **Design & Engineering** | Figma, CAD Modeling, Ansys |
+| **Logic & Coding** | ⚡⚡⚡⚡⚡ (Max) |
+| **Hardware & IoT** | 🛠️🛠️🛠️🛠️🛡️ |
+| **Control Systems** | ⚙️⚙️⚙️⚙️⚙️ |
+| **Coffee Power** | ☕ INFINITE |
 
 ---
 
-<div align="center">
-  <i>"Code, Commit, Coffee, Repeat."</i> ☕
-</div>
+### 🛠️ Inventory & Loadout
+
+```bash
+\$ load_inventory --tools
+
+> Hardware: [ESP32, ESP8266, Accelerometers, Custom Power Circuitry]
+> Languages: [Python, C++, SQL, PHP, HTML/CSS]
+> Frameworks: [PyTorch, PyQt, WebSockets, NumPy]
+> Graphics:  [Figma, CAD, Ansys]
