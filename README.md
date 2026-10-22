@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Omnia! 👋
 
-<!--
-**OmniaElansary/OmniaElansary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" alt="Omnia Avatar" width="220" style="border-radius: 50%;">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Engineering Student | Systems & Control | Open Source Enthusiast</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🎓 Studying **Naval Architecture & Marine Engineering** @ Alexandria University.
+- 🛠️ Passionate about **Control Systems, Embedded Hardware, and IoT Solutions**.
+- 💡 Constantly learning, coding, and building cool hardware/software projects.
+- ☕ Powered by continuous integration, debugging, and good coffee.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C++, SQL, PHP
+- **Hardware & IoT:** ESP8266, ESP32, Sensors & Actuators, WebSockets
+- **Frameworks & Tools:** PyTorch, PyQt, Git, Figma, CAD Modeling
+
+---
+
+📫 **Connect with me:**  
+[LinkedIn](https://linkedin.com) • [Email](mailto:your.email@example.com) • [Portfolio](https://your-portfolio.com)
